@@ -10,10 +10,28 @@
   "author": "Gajam Goutham Kumar",
   "license": "ISC",
   "devDependencies": {
+    "axios": "^1.7.2",
     "nodemon": "^3.1.4"
   },
   "dependencies": {
+    "chalk": "^4.1.2",
+    "cowsay": "^1.6.0",
     "dotenv": "^16.4.5",
-    "minimist": "^1.2.8"
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.8",
+    "progress": "^2.0.3",
+    "prompt-sync": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GouthamGajam/Node-JS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GouthamGajam/Node-JS/issues"
+  },
+  "homepage": "https://github.com/GouthamGajam/Node-JS#readme",
+  "optionalDependencies": {
+    "colors": "^1.4.0"
   }
 }
